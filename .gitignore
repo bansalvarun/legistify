@@ -1,3 +1,10 @@
+settings_*.py
+*.log
+*.pot
+*.pyc
+local_settings.py
+dist
+00*.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -55,3 +62,11 @@ docs/_build/
 
 # PyBuilder
 target/
+
+
+*.pyc
+local_settings.py
+dist
+#db.sqlite3
+#db2.sqlite3
+0*.py
